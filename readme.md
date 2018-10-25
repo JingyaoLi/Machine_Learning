@@ -4,9 +4,9 @@
 
 Sample:
 
-![](0a1d2800-33ec-424f-8a3a-8e5b1ee2726b.png)
+![](https://github.com/JingyaoLi/Machine_Learning/blob/master/captcha-dataset/0a1d2800-33ec-424f-8a3a-8e5b1ee2726b.png?raw=true)
 
-![](0a4b208f-3100-44a6-b530-dbe3670a480c.png)
+![](https://github.com/JingyaoLi/Machine_Learning/blob/master/captcha-dataset/0a4b208f-3100-44a6-b530-dbe3670a480c.png?raw=true)
 
 
 
