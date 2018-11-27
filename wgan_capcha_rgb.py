@@ -20,6 +20,10 @@ import getpass
 vcode = getpass.getpass()
 !echo {vcode} | google-drive-ocamlfuse -headless -id={creds.client_id} -secret={creds.client_secret}
 
+!ls
+!mkdir -p drive
+!google-drive-ocamlfuse drive
+
 from __future__ import print_function, division
 import tarfile
 import numpy as np
